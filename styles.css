@@ -2,7 +2,7 @@ body {
     box-sizing: border-box;
     background-color: hsla(263, 90%, 40%, 0.747);
     font-family: 'Open Sans', sans-serif;
-    background-image: url(images/bg-desktop.svg);
+    background-image: url(bg-desktop.svg);
     background-size: cover;
 }
 
